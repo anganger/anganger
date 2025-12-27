@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on machine learning mode and and deep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🤝 I’m looking for help with<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
+🔭 I’m currently working on machine learning mode and and ddeep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🤝 I’m looking for help with<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
 
 
 ## 🌐 Socials:
@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=anganger&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anganger&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anganger&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anganger&icon=2&color=1)](https://visitcount.itsvg.in)
