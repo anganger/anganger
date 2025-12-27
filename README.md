@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on machine learning mode and and ddeep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🤝 I’m looking for help with<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
+🔭 I’m currently working on machine learning mode and and deep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🤝 I’m looking for help with<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anganger&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anganger&limit=5&theme=dark&combine_all_yearly_contributions=true)
