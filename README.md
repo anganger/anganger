@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on machine learning mode and and deep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🤝 I’m looking for help with<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
+🔭 I’m currently working on machine learning mode and and deep learning<br>👯 I’m looking to collaborate on projects related to my fiels<br>🌱 I’m currently learning langchain and langraph<br>💬 Ask me about data<br>⚡ lets play badminton
 
 
 ## 🌐 Socials:
